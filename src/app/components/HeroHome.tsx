@@ -14,7 +14,7 @@ const HeroHome = () => {
           Club Bolívar Tienda Oficial
         </span>
         <h3 className="text-4xl md:text-6xl font-semibold">
-          Viste los colores de tu equipo
+          Viste los colores de tu equipo favorito
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6">
           Explora nuestra amplia gama de ropa oficial del Club Bolívar.
